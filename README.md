@@ -11,7 +11,6 @@
 <a href="https://www.linkedin.com/in/timur-yesmagambetov-2ab416298/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Open%20to%20work-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white" />
 <img src="https://img.shields.io/badge/Astana%2C%20KZ-1e3a8a?style=for-the-badge&logo=googlemaps&logoColor=white" />
-<img src="https://komarev.com/ghpvc/?username=mrTimurochka&style=for-the-badge&color=06b6d4&label=Profile+views" />
 
 </div>
 
@@ -108,8 +107,6 @@ const timur = {
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrTimurochka&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <img src="https://streak-stats.demolab.com?user=mrTimurochka&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrTimurochka&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </div>
 
