@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=200&section=header&text=Timur%20Yesmagambetov&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20Developer%20%C2%B7%20Astana%2C%20Kazakhstan&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:6d28d9,100:c084fc&height=200&section=header&text=Timur%20Yesmagambetov&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20Developer%20%C2%B7%20Astana%2C%20Kazakhstan&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=06B6D4&center=true&vCenter=true&width=620&lines=8%2B+years+shipping+web+%26+mobile+products;NestJS+%C2%B7+React+%C2%B7+Vue+%C2%B7+React+Native;High-load+APIs%2C+REST+%26+GraphQL;Building+at+BAITC+%E2%80%94+Blockchain+%26+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=620&lines=8%2B+years+shipping+web+%26+mobile+products;NestJS+%C2%B7+Go+%C2%B7+React+%C2%B7+Vue+%C2%B7+React+Native;High-load+APIs%2C+REST+%26+GraphQL;Building+at+BAITC+%E2%80%94+Blockchain+%26+AI" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/timur-yesmagambetov-2ab416298/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Open%20to%20work-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white" />
-<img src="https://img.shields.io/badge/Astana%2C%20KZ-1e3a8a?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<a href="https://www.linkedin.com/in/timur-yesmagambetov-2ab416298/"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Open%20to%20work-A855F7?style=for-the-badge&logo=checkmarx&logoColor=white" />
+<img src="https://img.shields.io/badge/Astana%2C%20KZ-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
 </div>
 
@@ -24,13 +24,14 @@ const timur = {
   now:        "BAITC — Blockchain & AI Technology Center, Astana",
   previously: ["Magicly (Senior Full-stack)", "Tinkoff", "Subsquid", "Zoftify", "Курсор"],
   study:      "Astana IT University",
+  stack:      ["TypeScript", "Go", "Python"],
   focus:      ["high-load web apps", "mobile apps", "APIs & microservices", "performance & SEO"],
   likes:      "turning messy requirements into clean, fast products",
 };
 ```
 
 - 🏗️ **8+ years** building production web & mobile apps for teams in the **US, Germany, Russia and Kazakhstan**
-- ⚡ Backend: **NestJS, Express, Koa, Django** · REST & **GraphQL** · SQL/NoSQL · payments & 3rd-party integrations
+- ⚡ Backend: **NestJS, Go, Express, Koa, Django** · REST & **GraphQL** · SQL/NoSQL · payments & 3rd-party integrations
 - 🎨 Frontend: **React, Next.js, Vue, Nuxt**, TypeScript, Tailwind, SSR for SEO, Framer Motion / GSAP
 - 📱 Mobile: **React Native, Kotlin, Swift**
 - ☁️ Infra: **Docker, Nginx, AWS, Google Cloud**, load balancing & high availability
@@ -45,7 +46,7 @@ const timur = {
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,kotlin,swift,html,css&perline=7" />
+<img src="https://skillicons.dev/icons?i=ts,js,go,python,kotlin,swift,html,css&perline=8" />
 
 **Frontend**
 
@@ -53,7 +54,7 @@ const timur = {
 
 **Backend & Data**
 
-<img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,django,graphql,postgres,mongodb,redis&perline=8" />
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,go,express,django,graphql,postgres,mongodb,redis&perline=9" />
 
 **DevOps, Cloud & Tools**
 
@@ -103,10 +104,10 @@ const timur = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mrTimurochka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrTimurochka&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mrTimurochka&show_icons=true&hide_border=true&bg_color=1a1025&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff&ring_color=a855f7&count_private=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrTimurochka&layout=compact&hide_border=true&bg_color=1a1025&title_color=c084fc&text_color=e9d5ff&langs_count=8" />
 
-<img src="https://streak-stats.demolab.com?user=mrTimurochka&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=mrTimurochka&hide_border=true&background=1A1025&ring=A855F7&fire=C084FC&currStreakNum=E9D5FF&currStreakLabel=C084FC&sideNums=E9D5FF&sideLabels=C084FC&dates=A78BFA&stroke=3B2A55" />
 
 </div>
 
@@ -118,8 +119,8 @@ const timur = {
 
 Open to interesting full-stack, AI and product roles — office, hybrid or remote.
 
-<a href="https://www.linkedin.com/in/timur-yesmagambetov-2ab416298/"><img src="https://img.shields.io/badge/Say%20hi%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/timur-yesmagambetov-2ab416298/"><img src="https://img.shields.io/badge/Say%20hi%20on%20LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1e3a8a,100:0f172a&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,50:6d28d9,100:1a0b2e&height=120&section=footer" width="100%" />
 
 </div>
